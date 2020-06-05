@@ -379,7 +379,6 @@
 
     <reporting>
         <plugins>
-            <plugin> ~ </plugin>
             <plugin>
                 <groupId>org.codehaus.mojo<groupId>
                 <artifactId>cobertura-maven-plugin</artifactId>
