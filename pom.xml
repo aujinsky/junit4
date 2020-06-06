@@ -141,7 +141,7 @@
             http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
             -->
             <plugin>
-                <groupId>org.codehaus.mojo<groupId>
+                <groupId>org.codehaus.mojo</groupId>
                 <artifactId>cobertura-maven-plugin</artifactId>
                 <version>2.7</version>
                 <configuration>
